@@ -1,6 +1,6 @@
 # About Me:
 
-I am an aspiring web developer, currently teaching myself HTML/CSS/JavaScript by way of [**The Odin Project**](https://www.theodinproject.com). Currently limited to the vanilla capabilities of each language, with the exception of CSS as I have used a few CSS Frameworks ([**Bootstrap**](https://getbootstrap.com/) + [**Bulma**](https://bulma.io/))
+I am an aspiring web developer, currently teaching myself HTML/CSS/JavaScript by way of [**The Odin Project**](https://www.theodinproject.com). Currently limited to the vanilla capabilities of each language, with the exception of CSS as I have used a couple CSS Frameworks ([**Bootstrap**](https://getbootstrap.com/) + [**Bulma**](https://bulma.io/)).
 
 # My Projects:
 
