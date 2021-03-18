@@ -6,7 +6,7 @@ I am an aspiring web developer, currently teaching myself HTML/CSS/JavaScript by
 
 ## Google Homepage
 
-An attempted recreation of the infamous Google Search page, using only basic HTML/CSS.
+An attempted recreation of the famous Google Search page, using only basic HTML/CSS.
 
 [**Code**](https://github.com/billyhelms24/google-homepage) // [**Live Preview**](https://billyhelms24.github.io/google-homepage/)
 
