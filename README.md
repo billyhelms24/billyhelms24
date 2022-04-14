@@ -10,7 +10,7 @@ An attempted recreation of the famous Google Search page, using only basic HTML/
 
 [**Code**](https://github.com/billyhelms24/google-homepage) // [**Live Preview**](https://billyhelms24.github.io/google-homepage/)
 
-![google-homepage.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/google-homepage.png)
+![google-homepage.png]()
 
 ## Rock, Paper, Scissors
 
@@ -18,7 +18,7 @@ An RPS game that takes place in the browser, against the computer. This project 
 
 [**Code**](https://github.com/billyhelms24/rock-paper-scissors) // [**Live Preview**](https://billyhelms24.github.io/rock-paper-scissors/)
 
-![rock-paper-scissors.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/rock-paper-scissors.png)
+![rock-paper-scissors.png]()
 
 ## Etch-a-Sketch
 
@@ -26,7 +26,7 @@ Taking DOM Manipulation a step further by adding in loops and event listeners. T
 
 [**Code**](https://github.com/billyhelms24/etch-a-sketch) // [**Live Preview**](https://billyhelms24.github.io/etch-a-sketch/)
 
-![etch-a-sketch.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/etch-a-sketch.png)
+![etch-a-sketch.png]()
 
 ## Calculator
 
@@ -34,7 +34,7 @@ A calculator built using only HTML/CSS and Vanilla JavaScript. The user can load
 
 [**Code**](https://github.com/billyhelms24/js-calculator) // [**Live Preview**](https://billyhelms24.github.io/js-calculator/)
 
-![js-calculator-png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/js-calculator.png)
+![js-calculator-png]()
 
 ## Library
 
@@ -42,4 +42,4 @@ A library built using only HTML/CSS and Vanilla JavaScript. This project uses ob
 
 [**Code**](https://github.com/billyhelms24/js-library) // [**Live Preview**](https://billyhelms24.github.io/js-library/)
 
-![js-library.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/js-library.png)
+![js-library.png]()
