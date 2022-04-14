@@ -28,14 +28,6 @@ Taking DOM Manipulation a step further by adding in loops and event listeners. T
 
 ![etch-a-sketch.png]()
 
-## Calculator
-
-A calculator built using only HTML/CSS and Vanilla JavaScript. The user can load a number using the numberpad onto the display. When an operation is chosen, that number and operation are loaded into an array. The user can then load another number to the display and then click equals for a result or string together multiple operations.
-
-[**Code**](https://github.com/billyhelms24/js-calculator) // [**Live Preview**](https://billyhelms24.github.io/js-calculator/)
-
-![js-calculator-png]()
-
 ## Library
 
 A library built using only HTML/CSS and Vanilla JavaScript. This project uses objects, where each book is constructed using the same prototype, and more DOM Manipulation to display them. The library loads with 5 books already, each with a title, author, number of pages, and completion status. Each book has a delete button that removes it from the library, and a change status button that changes the completion status of each individual book. Users can use the form at the bottom of the library to add more books.
@@ -43,3 +35,11 @@ A library built using only HTML/CSS and Vanilla JavaScript. This project uses ob
 [**Code**](https://github.com/billyhelms24/js-library) // [**Live Preview**](https://billyhelms24.github.io/js-library/)
 
 ![js-library.png]()
+
+## Calculator
+
+A calculator built using only HTML/CSS and Vanilla JavaScript. The user can load a number using the numberpad onto the display. When an operation is chosen, that number and operation are loaded into an array. The user can then load another number to the display and then click equals for a result or string together multiple operations.
+
+[**Code**](https://github.com/billyhelms24/js-calculator) // [**Live Preview**](https://billyhelms24.github.io/js-calculator/)
+
+![js-calculator-png]()
