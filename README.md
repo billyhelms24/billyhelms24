@@ -6,19 +6,19 @@ I am an aspiring web developer, currently teaching myself HTML/CSS/JavaScript by
 
 ## Tic Tac Toe
 
-Need a description here.
+A tic-tac-toe game built using only HTML/CSS and Vanilla JavaScript. This project uses javascript to generate a gameboard where players take turns making selection. After each selection, the game checks the current board state against a set of possible win scenarios. The game continues in this loop until a winner is determined through a match in the win scenarios. This project was intended to practice DOM-Manipulation as well as logic process and data structures.
 
 [**Code**](https://github.com/billyhelms24/tic-tac-toe) // [**Live Preview**](https://billyhelms24.github.io/tic-tac-toe)
 
-![restaurant-page](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/tic-tac-toe.png)
+![tic-tac-toe.png](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/tic-tac-toe.png)
 
 ## To-Do List
 
-Need a description here.
+A work in progress. Abandoned The Odin Project in favor of Udemy MERN stack courses.
 
 [**Code**](https://github.com/billyhelms24/to-do-list) // [**Live Preview**](https://billyhelms24.github.io/to-do-list)
 
-![restaurant-page](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/to-do-list.png)
+![restaurant-page.png](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/to-do-list.png)
 
 ## Library
 
@@ -46,7 +46,7 @@ Taking DOM Manipulation a step further by adding in loops and event listeners. T
 
 ## Restaurant Page
 
-Need a desccription here.
+A simple restaurant site using vanilla JS. It employs the use of modules for readability, as well as a navbar that takes a user selection and determines which content should be rendered on the DOM.
 
 [**Code**](https://github.com/billyhelms24/restaurant-page) // [**Live Preview**](https://billyhelms24.github.io/restaurant-page)
 
