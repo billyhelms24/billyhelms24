@@ -42,7 +42,7 @@ Taking DOM Manipulation a step further by adding in loops and event listeners. T
 
 [**Code**](https://github.com/billyhelms24/etch-a-sketch) // [**Live Preview**](https://billyhelms24.github.io/etch-a-sketch/)
 
-![etch-a-sketch.png](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/etch-a-sketch.png)
+![etch-a-sketch.png](https://raw.githubusercontent.com/billyhelms24/billyhelms24/main/screenshots/etch-a-sketch.png?raw=true&v=2)
 
 ## Restaurant Page
 
